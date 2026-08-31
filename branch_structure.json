@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/soroban-hedged-reads",
+    "feat/webhook-rotation-dashboard",
+    "main",
+    "origin",
+    "wave/issue-889-gateway-schema-coverage"
+  ],
+  "parent": {
+    "feat/soroban-hedged-reads": "main",
+    "feat/webhook-rotation-dashboard": "main",
+    "main": null,
+    "origin": "main",
+    "wave/issue-889-gateway-schema-coverage": "main"
+  },
+  "order": [
+    "main",
+    "feat/soroban-hedged-reads",
+    "feat/webhook-rotation-dashboard",
+    "origin",
+    "wave/issue-889-gateway-schema-coverage"
+  ]
+}
